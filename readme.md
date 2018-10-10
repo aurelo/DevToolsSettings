@@ -1,3 +1,8 @@
-#SETUP FOR DEVELOPMENT TOOLS
+SETUP FOR DEVELOPMENT TOOLS
+===========================
 
-##INTELLI J
+## INTELLI J
+
+### Color scheme
+
+Importing ***.ics*** color schemes: `Settings -> Editor -> Color Scheme -> Import scheme`
