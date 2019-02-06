@@ -12,7 +12,7 @@ Example for java formating:
 ![java Monokai color scheme example](/images/java_color_example.png)
 
 
-### Enable live relaod
+### Enable live reload
 
 
 * enable auto make while app is running
